@@ -1,0 +1,1 @@
+var salario = Number( prompt(""))
